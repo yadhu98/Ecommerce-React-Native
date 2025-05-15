@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Classic White T-Shirt",
+      "price": 19.99,
+      "description": "A classic white t-shirt made from 100% organic cotton.",
+      "category": "clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": { "rate": 4.5, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Blue Denim Jeans",
+      "price": 49.99,
+      "description": "Comfortable blue denim jeans with a modern fit.",
+      "category": "clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": { "rate": 4.2, "count": 80 }
+    },
+    {
+      "id": 3,
+      "title": "Leather Handbag",
+      "price": 89.99,
+      "description": "Elegant leather handbag perfect for any occasion.",
+      "category": "accessories",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": { "rate": 4.7, "count": 60 }
+    },
+    {
+      "id": 4,
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "description": "Noise-cancelling wireless headphones with long battery life.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": { "rate": 4.3, "count": 150 }
+    },
+    {
+      "id": 5,
+      "title": "Sports Watch",
+      "price": 39.99,
+      "description": "Water-resistant sports watch with multiple features.",
+      "category": "accessories",
+      "image": "https://fakestoreapi.com/img/71r69Y7BSeL._AC_UY879_.jpg",
+      "rating": { "rate": 4.0, "count": 95 }
+    }
+  ]
+  
